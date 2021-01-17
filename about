@@ -45,7 +45,7 @@
         <div id="navbar">
             <div id="js-nav-container" class="navbar-container">
                 <div class="navbar-nav container">
-                    <a class="navbar-logo" href="/index.html">Rj<span>Lewie</span></a>
+                    <a class="navbar-logo" href="/">Rj<span>Lewie</span></a>
                     <div id="hamburger-icon">
                         <span></span>
                         <span></span>
@@ -53,9 +53,9 @@
                     </div>
                     <div class="navbar-menu-container">
                         <ul class="navbar-menu">
-                            <li class="navbar-menu__item"><a href="/index.html" class="navbar-menu__link ">Home</a></li>
+                            <li class="navbar-menu__item"><a href="/" class="navbar-menu__link ">Home</a></li>
                             <li class="navbar-menu__item"><a href="/#works" class="navbar-menu__link">Works</a></li>
-                            <li class="navbar-menu__item"><a href="/about.html" class="navbar-menu__link active">About</a></li>
+                            <li class="navbar-menu__item"><a href="/about" class="navbar-menu__link active">About</a></li>
                         </ul>
                     </div>
                 </div>
@@ -68,9 +68,9 @@
         <!-- Modal content -->
         <div class="modal-content">
             <ul>
-                <li><a href="/index.html">HOME</a></li>
+                <li><a href="/">HOME</a></li>
                 <li><a href="/#works">WORKS</a></li>
-                <li><a href="/about.html">ABOUT</a></li>
+                <li><a href="/about">ABOUT</a></li>
             </ul>
         </div>
     </div>
