@@ -3,6 +3,7 @@ $(document).ready(function () {
     if (window.location.href.indexOf("works") > -1) {
         $(".navbar-menu__link").removeClass('active');
         $('a[href$="#works"]').toggleClass('active');
+        $('a[href$="index.html#works"]').toggleClass('active');
     }
 
 
